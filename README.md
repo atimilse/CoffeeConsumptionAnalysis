@@ -18,7 +18,7 @@ By answering these questions, this study delivers data-driven recommendations to
 
 ## Data Overview
 
-The dataset used in this project was collected through an online survey and compiled into a single CSV file. It initially included a wide array of variables, some of which were beyond the scope of this analysis. To maintain focus on the research objectives, the dataset was cleaned and transformed using Pandas, retaining only the most relevant features related to:
+The dataset used in this project was collected through an online survey and compiled into a single CSV file and is available on tidytuesdays Repository on Github (https://github.com/rfordatascience/tidytuesday/tree/main/data/2024/2024-05-14). It initially included a wide array of variables, some of which were beyond the scope of this analysis. To maintain focus on the research objectives, the dataset was cleaned and transformed using Pandas, retaining only the most relevant features related to:
 
 - Demographics (age, gender)  
 - Coffee consumption habits (daily intake, brew preferences)  
