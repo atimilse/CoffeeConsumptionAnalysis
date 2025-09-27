@@ -1,5 +1,9 @@
 # Coffee Consumption Analysis by Demographics and Lifestyle
 
+Project Type: Consumer Behavior Analysis  
+Tools Used: Python (Pandas), Tableau  
+Data Source: The Great American Coffee Taste Test Dataset (Kaggle)
+
 ## Background and Overview
 
 This project stems from firsthand exposure to the coffee industry through a family-run online coffee bean business. Although that venture eventually concluded, it revealed the lasting global fascination with coffee and the complex journey from raw bean to beloved beverage. These insights laid the foundation for a deeper exploration into consumer behavior within the coffee market.
