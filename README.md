@@ -81,7 +81,7 @@ This project explores coffee consumption patterns across demographics and lifest
 
 Below is a visual representation of some key findings from the analysis:
 
-![Tableau Dashboard](images/TableauDashboard.png)
+![Tableau Dashboard](images/Tableau_Dashboard.png)
 
 ## Insights by Category
 
